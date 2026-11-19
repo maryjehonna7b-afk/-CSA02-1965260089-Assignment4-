@@ -1,0 +1,5 @@
+static: 1001 1002 1003
+auto : 1001 1001 1001
+static calls in separate statements: 1004 1005 1006
+extern output argument order is unspecified; one observed order: extern: 1003 1002 1001
+Sum from 1 to 5 = 15
