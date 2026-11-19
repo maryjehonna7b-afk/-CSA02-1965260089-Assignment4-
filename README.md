@@ -6,8 +6,6 @@
 **Course:** CSA02 – C Programming  
 **Compiler:** GCC (record the version installed on your computer)
 
-> Please verify the name and register number before submission. Replace them if your college records use a different format.
-
 ## Repository structure
 
 ```text
